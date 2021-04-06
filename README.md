@@ -1,2 +1,3 @@
 # concourse-go-build
-Demonstrate building a Go application with Concourse
+
+Demonstrate building a Go application with Concourse.
